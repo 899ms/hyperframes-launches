@@ -1,6 +1,6 @@
 # hyperframes-launches
 
-Source for HeyGen's HyperFrames launch videos. Each subdirectory is a standalone HyperFrames composition — open `index.html` in a browser (or via the HyperFrames CLI) to preview, render, or remix.
+Source for HeyGen's HyperFrames launch videos. Each subdirectory is a standalone HyperFrames composition — open `index.html` in a browser (or via the HyperFrames CLI) to preview, render, or remix. See [License](#license) before redistributing bundled assets.
 
 ## Videos
 
@@ -80,6 +80,12 @@ hyperframes render      # render to mp4
 ```
 
 See the [HyperFrames CLI docs](https://github.com/heygen-com/hyperframes) for the full command set.
+
+## License
+
+Original composition source code, configuration, and documentation authored by HeyGen in this repository are licensed under the [Apache License 2.0](./LICENSE), unless a file states otherwise.
+
+That license does not apply to bundled media, brand assets, or fonts, including logos, photos, audio, video, and screenshots, or to third-party software. Those materials remain subject to their respective owners' terms and may require replacement or separate permission before redistribution. The Apache License does not grant permission to use HeyGen's or any third party's trademarks.
 
 ## Adding a new launch video
 
