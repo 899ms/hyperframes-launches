@@ -10,6 +10,7 @@ Source for HeyGen's HyperFrames launch videos. Each subdirectory is a standalone
 | Re-brandable launch templates (×4) | [`heygen-apple-motion/`](./heygen-apple-motion) | — |
 | Claude paper launch | [`claude-paper-launch/`](./claude-paper-launch) | [Watch](https://hyperframes.dev/viewer/659498ab-d77e-48a8-a719-dd97adbbd3e5) |
 | Cloud Render launch | [`cloud-render-launch/`](./cloud-render-launch) | [Watch](https://hyperframes.dev/viewer/4259dc01-157a-4966-9c58-4e97faa2548e) |
+| Codex five-hour-limit replica | [`codex-five-hour-limit-replica/`](./codex-five-hour-limit-replica) | [Watch](./codex-five-hour-limit-replica/codex-five-hour-limit-replica.mp4) |
 | Figma integration launch | [`figma-launch/`](./figma-launch) | [Watch](https://hyperframes.dev/viewer/58fdce81-6ef0-4860-899d-d6b3da692a54) |
 | Frame.md storyboard launch | [`frame-md-launch-storyboard/`](./frame-md-launch-storyboard) | [Watch](https://hyperframes.dev/viewer/c5198458-4eaa-4933-a4e8-029c8010a845) |
 | HyperFrames launch | [`hyperframes-launch/`](./hyperframes-launch) | [Watch](https://hyperframes.dev/viewer/9ab8d480-7507-4905-9222-ae6ea4b2fb5a) |
