@@ -67,7 +67,7 @@ STORYBOARD.md         Scene-by-scene direction
 
 ## Notes on this project
 
-- The rendered video uses voiceover + SFX but no continuous underscore music track. If you're extending this example, add an `<audio>` element referencing your music file to `index.html`.
+- The soundtrack is the voiceover, the spoken intro clip (`beat4-clip.mp4`, unmuted) and `assets/music.mp3`, the music bed with its two sound effects, recovered from the published render because its source file was never committed.
 - `npx hyperframes lint` surfaces a few pre-existing warnings (overlapping clips, GSAP tween overlap). The render still produces correctly; these are documented in `HANDOFF.md` as known punch-list items.
 
 ## License
